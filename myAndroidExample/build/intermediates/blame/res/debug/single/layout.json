@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\xml_show.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\xml_show.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\popup_menu.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\popup_menu.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\menumain.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\menumain.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\floating.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\floating.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\normal.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\normal.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\gridviewmain.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\gridviewmain.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_layout.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\viewpager_layout.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\notification.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\viewflipper.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\viewflipper.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\imagemain.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\imagemain.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\load_more.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\load_more.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\parentlist.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\parentlist.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\layout2.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\layout2.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\tablemenu.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\tablemenu.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\widgetmain1.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\widgetmain1.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\path_button.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\path_button.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\gallerymain.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\gallerymain.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\layout1.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\layout1.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\childlist.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\childlist.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\downloadmain.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\downloadmain.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\tabmain.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\tabmain.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\xmllist_item.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\xmllist_item.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\button2.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\button2.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\startmain.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\startmain.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\tabmain1.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\tabmain1.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\listview.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\listview.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\gesture.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\gesture.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\group_item_view.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\group_item_view.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\xmlmain.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\xmlmain.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\mp3main.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\mp3main.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\tabmain2.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\tabmain2.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\slidingdrawer.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\slidingdrawer.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\timepicker.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\timepicker.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\widgetmain.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\widgetmain.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\item1.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\item1.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\tostmain.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\tostmain.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\surface.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\surface.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\progressmain.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\progressmain.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\group_list.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\group_list.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\popupwindow.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\custom.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\custom.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\layout_gallery.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\layout_gallery.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\subtab.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\subtab.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\qqlist.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\qqlist.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\prase_result.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\prase_result.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\alarm.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\alarm.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\servicemain.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\servicemain.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\slidingdrawermain.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\slidingdrawermain.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\handlemain.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\handlemain.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\guide.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\guide.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\layout3.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\layout3.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\gesture1.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\gesture1.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\custom1.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\custom1.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\layout\\button1.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\layout\\button1.xml"
+    }
+]

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="8" />
+    <!-- 悬浮窗口 -->
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <!-- 快捷方式 -->
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+    <!-- 振动器 -->
+    <uses-permission android:name="android.permission.VIBRATE" >
+    </uses-permission>
+    <!-- 联网权限 -->
+    <uses-permission android:name="android.permission.INTERNET" >
+    </uses-permission>
+    <!-- 在SDCard中创建与删除文件权限 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <!-- 往SDCard写入数据权限 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="com.example.widget.MyApplication"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+        <activity
+            android:name="com.example.AppStart"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name="com.example.widget.test1.WidetDemo"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_provider" />
+        </receiver>
+        <receiver android:name="com.example.AlarmManager.ActionBroadCast" >
+        </receiver>
+        <receiver android:name="com.example.widget.MonitorWidgetProvider" >
+        </receiver>
+        <receiver android:name="com.example.broadcastreceiver.Broadcastreceivetest" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+                <category android:name="android.intent.category.HOME" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.example.AlarmManager.ActionService" >
+        </service>
+        <service android:name="com.example.service.MyService" >
+        </service>
+        <service android:name="com.example.service1.MusicService1" >
+        </service>
+        <service
+            android:name="com.example.widget.FloatService"
+            android:enabled="true"
+            android:exported="true" >
+        </service>
+        <service
+            android:name="com.example.serviceAndcontentProvider.MusicService"
+            android:exported="true" />
+
+        <activity android:name="com.example.MyAndroidExampleActivity" >
+        </activity>
+        <activity android:name="com.example.AlarmManager.ActionActivity" >
+        </activity>
+        <activity android:name="com.example.AlarmManager.AlarmTestActivity" >
+        </activity>
+        <activity android:name="com.example.GestureActivity.GestureActivity" >
+        </activity>
+        <activity android:name="com.example.GestureActivity.GestureUtils" >
+        </activity>
+        <activity android:name="com.example.GestureActivity.GestureTest" >
+        </activity>
+        <activity android:name="com.example.GestureActivity.GestureActivity1" >
+        </activity>
+        <activity android:name="com.example.time.ChronoDemo" >
+        </activity>
+        <activity android:name="com.example.time.Timetest" >
+        </activity>
+        <activity android:name="com.example.button.ButtonTest" >
+        </activity>
+        <activity android:name="com.example.button.PageFlipperActivity" >
+        </activity>
+        <activity android:name="com.example.button.ButtonState" >
+        </activity>
+        <activity android:name="com.example.button.PathButtonActivity" >
+        </activity>
+        <activity android:name="com.example.list.MainActivity" >
+        </activity>
+        <activity android:name="com.example.list.ListTest" >
+        </activity>
+        <activity android:name="com.example.list.MyMain" >
+        </activity>
+        <activity android:name="com.example.surfaceView.TestSurfaceView" >
+        </activity>
+        <activity android:name="com.example.surfaceView.SurfaceTest" >
+        </activity>
+        <activity android:name="com.example.surfaceView.TestOnSurface" >
+        </activity>
+        <activity android:name="com.example.surfaceView.Test" >
+        </activity>
+        <activity android:name="com.example.menu.Menu1" >
+        </activity>
+        <activity android:name="com.example.menu.MenuTest" >
+        </activity>
+        <activity android:name="com.example.menu.MenuActivity" >
+        </activity>
+        <activity android:name="com.example.menu.TestTabMenu" >
+        </activity>
+        <activity android:name="com.example.dialog.DiaAllActivity" >
+        </activity>
+        <activity android:name="com.example.dialog.DialogTest" >
+        </activity>
+        <activity android:name="com.example.dialog.PoupWindowDemoActivity" >
+        </activity>
+        <activity android:name="com.example.tost.Main2" >
+        </activity>
+        <activity android:name="com.example.tost.TostTest" >
+        </activity>
+        <activity android:name="com.example.progressDialog.PDialog" >
+        </activity>
+        <activity android:name="com.example.progressDialog.ProgressDialogTest" >
+        </activity>
+        <activity android:name="com.example.tabhost.TabTest" >
+        </activity>
+        <activity android:name="com.example.tabhost.mytestWidget" >
+        </activity>
+        <activity android:name="com.example.tabhost.TabMenuActivity" >
+        </activity>
+        <activity android:name="com.example.tabhost.DoubleTabHost" >
+        </activity>
+        <activity android:name="com.example.tabhost.NormalActivity" >
+        </activity>
+        <activity android:name="com.example.tabhost.SubTab" >
+        </activity>
+        <activity android:name="com.example.gridview.Activity01" >
+        </activity>
+        <activity android:name="com.example.gridview.GridviewTest" >
+        </activity>
+        <activity android:name="com.example.gallery.MainActivity" >
+        </activity>
+        <activity android:name="com.example.gallery.GalleryTest" >
+        </activity>
+        <activity android:name="com.example.gallery.test1.Guide" >
+        </activity>
+        <activity android:name="com.example.gallery.test2.GalleryFlowActivity" >
+        </activity>
+        <activity android:name="com.example.gallery.test3.testImageView" >
+        </activity>
+        <activity android:name="com.example.widget.memFloat" >
+        </activity>
+        <activity android:name="com.example.widget.WidgetTest" >
+        </activity>
+        <activity android:name="com.example.widget.test1.WidgetDemoTest" >
+        </activity>
+        <activity android:name="com.example.widget.test1.Shortcuts" >
+        </activity>
+        <activity android:name="com.example.Notification.Notification1" >
+        </activity>
+        <activity android:name="com.example.Notification.NotificationTest" >
+        </activity>
+        <activity android:name="com.example.ViewFlipper.FlingGalleryActivity" >
+        </activity>
+        <activity android:name="com.example.ViewFlipper.ViewTest" >
+        </activity>
+        <activity android:name="com.example.ViewFlipper1.ViewFlipperActivity" >
+        </activity>
+        <activity android:name="com.example.Viewpager.TestViewPager" >
+        </activity>
+        <activity android:name="com.example.slidingdrawer.SlidingDrawerDemoActivity" >
+        </activity>
+        <activity android:name="com.example.slidingdrawer.SlidingDrawerTest" >
+        </activity>
+        <activity android:name="com.example.slidingdrawer1.main" >
+        </activity>
+        <activity android:name="com.example.turn.turntest" >
+        </activity>
+        <activity android:name="com.example.plasma.AnimActivity" >
+        </activity>
+        <activity android:name="com.example.MyAppDemo" >
+        </activity>
+        <activity android:name="com.example.activity.ActivityDemo" >
+        </activity>
+        <activity android:name="com.example.activity.ActivityIntentDemo" >
+        </activity>
+        <activity android:name="com.example.activity.ActivityIntentDemo1" >
+        </activity>
+        <activity android:name="com.example.activity.ActivityTest" >
+        </activity>
+        <activity android:name="com.example.service.TestService" >
+        </activity>
+        <activity android:name="com.example.service.ServiceTest" >
+        </activity>
+        <activity android:name="com.example.service1.MusicServiceActivity" >
+        </activity>
+        <activity android:name="com.example.serviceAndcontentProvider.MusicDemo" >
+        </activity>
+        <activity android:name="com.example.handle.TestHandle" >
+        </activity>
+        <activity android:name="com.example.handle.HandlerTest" >
+        </activity>
+        <activity android:name="com.example.downloader.asd" >
+        </activity>
+        <activity android:name="com.example.file.ZipTest" >
+        </activity>
+        <activity android:name="com.example.file.FileTest" >
+        </activity>
+        <activity android:name="com.example.file.FileWriteAndRead" >
+        </activity>
+        <activity android:name="com.example.json.JsonDemo" >
+        </activity>
+        <activity android:name="com.example.json.jsonTest" >
+        </activity>
+        <activity android:name="com.example.xml.PraseResult" >
+        </activity>
+        <activity android:name="com.example.xml.PraseXml" >
+        </activity>
+        <activity android:name="broadcastreceiver.Broadtest" >
+        </activity>
+    </application>
+
+</manifest>

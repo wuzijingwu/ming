@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wuzijing1506a20170825/wuzijing1506a20170825.iml" filepath="$PROJECT_DIR$/wuzijing1506a20170825/wuzijing1506a20170825.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wuzijingdpan.iml" filepath="$PROJECT_DIR$/wuzijingdpan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xListView/xListiew.iml" filepath="$PROJECT_DIR$/xListView/xListiew.iml" />
+    </modules>
+  </component>
+</project>

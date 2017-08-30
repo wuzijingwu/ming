@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\anim\\out_rightleft.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\anim\\out_rightleft.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\anim\\close_tab.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\anim\\close_tab.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\anim\\in_rightleft.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\anim\\in_rightleft.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\anim\\show_tab.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\anim\\show_tab.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\anim\\in_leftright.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\anim\\in_leftright.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\anim\\arrowrote.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\anim\\arrowrote.xml"
+    },
+    {
+        "merged": "D:\\wuzijingdpan\\myAndroidExample\\build\\intermediates\\res\\merged\\debug\\anim\\out_leftright.xml",
+        "source": "D:\\wuzijingdpan\\myAndroidExample\\src\\main\\res\\anim\\out_leftright.xml"
+    }
+]

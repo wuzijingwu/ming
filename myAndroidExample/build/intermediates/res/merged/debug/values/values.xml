@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">MyAndroidExample</string>
+    <string name="downloadbutton">download</string>
+    <string name="hello">Hello World, MyAndroidExampleActivity!</string>
+    <string name="path">path</string>
+    <string name="prase_result">解析结果</string>
+    <string name="prasetitle">xml解析</string>
+    <string name="sdcarderror">sdcarderror</string>
+</resources>

@@ -1,0 +1,2 @@
+include ':wuzijing1506a20170825', ':xListiew'
+project(':xListiew').projectDir = new File('xListView')
